@@ -3,9 +3,9 @@ hi
 <br>
 i am documenting every DSA problem i solve
 <br>
-for every problem i write:
+for every problem i write-
 <br>
-1. solutin
+1. solution
 <br>
 2. time complexity
 <br>
