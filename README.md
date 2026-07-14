@@ -1,18 +1,34 @@
 # leetcode-journal
-hi 
+Hi 
 
-i am documenting every DSA problem i solve
+I am Anushka.I am documenting every DSA problem I solve using python.
 
-for every problem i write-
+For every problem i write-
 
-1. solution
+1. Solution
 
-2. time complexity
+2. Time complexity
 
-3. space complexity
+3. Space complexity
 
-4. better approaches
+4. Better approaches
 
-5. mistakes that i made
-<
-6. what  i learned
+5. Mistakes that i made
+
+6. What  i learned
+
+## Why i ceated this repository
+
+-To track my DSA progress
+
+-To revise concepts easliy
+
+-To build consitency
+
+-To improve problem solving skills
+
+-To maintain record of everything that i learn
+
+I believe that understanding "why" a solution works is more iportant than simply getting an accepted submission
+
+Happy coding!!
