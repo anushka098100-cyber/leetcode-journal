@@ -29,6 +29,6 @@ For every problem i write-
 
 -To maintain record of everything that i learn
 
-I believe that understanding "why" a solution works is more iportant than simply getting an accepted submission
+I believe that understanding "why" a solution works is more important than simply getting an accepted submission
 
 Happy coding!!
